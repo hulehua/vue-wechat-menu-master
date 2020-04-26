@@ -38,7 +38,7 @@
 
 
 
-## Build Setup 20200426
+## Build Setup
 
 ``` bash
 # install dependencies
