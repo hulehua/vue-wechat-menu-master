@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import PublicAccountManagement from '@/components/PublicAccountManagement'
+import PublicMenuManagement from '@/components/PublicMenuManagement'
 
 Vue.use(Router)
 
@@ -8,8 +8,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'PublicAccountManagement',
-      component: PublicAccountManagement
+      name: 'PublicMenuManagement',
+      component: PublicMenuManagement
     }
 
   ]
